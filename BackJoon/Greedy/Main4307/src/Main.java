@@ -1,9 +1,7 @@
-package BackJoon.Greedy;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class Main4307 {
+public class Main {
 
     private static int shortDistance(int[] ant, int length){
         int half = length/2;

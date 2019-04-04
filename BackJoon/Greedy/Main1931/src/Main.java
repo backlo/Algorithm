@@ -1,11 +1,9 @@
-package BackJoon.Greedy;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Main1931 {
+public class Main{
 
     //vetor는 동기화 때문에 시간이 오래걸림 -> sync
     //arraylist는 동기화 안함
