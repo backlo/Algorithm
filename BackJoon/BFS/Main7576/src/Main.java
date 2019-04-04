@@ -3,7 +3,7 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Main7576 {
+public class Main {
 
     private static int bfs(int[][] arr, int m, int n) {
         Queue<int[]> q = new LinkedList<>();
