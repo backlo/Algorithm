@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlgoSpot/AlgoSpot.iml" filepath="$PROJECT_DIR$/AlgoSpot/AlgoSpot.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/BackJoon/BFS/BFS.iml" filepath="$PROJECT_DIR$/BackJoon/BFS/BFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/BackJoon/BackJoon.iml" filepath="$PROJECT_DIR$/BackJoon/BackJoon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoSpot/Chap1/Chap1.iml" filepath="$PROJECT_DIR$/AlgoSpot/Chap1/Chap1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BackJoon/DP/DP.iml" filepath="$PROJECT_DIR$/BackJoon/DP/DP.iml" />
       <module fileurl="file://$PROJECT_DIR$/BackJoon/Greedy/Greedy.iml" filepath="$PROJECT_DIR$/BackJoon/Greedy/Greedy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BackJoon/Greedy/Main11047/Main11047.iml" filepath="$PROJECT_DIR$/BackJoon/Greedy/Main11047/Main11047.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BackJoon/Greedy/Main11399/Main11399.iml" filepath="$PROJECT_DIR$/BackJoon/Greedy/Main11399/Main11399.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BackJoon/Greedy/Main1931/Main1931.iml" filepath="$PROJECT_DIR$/BackJoon/Greedy/Main1931/Main1931.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BackJoon/Greedy/Main2217/Main2217.iml" filepath="$PROJECT_DIR$/BackJoon/Greedy/Main2217/Main2217.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BackJoon/Greedy/Main4307/Main4307.iml" filepath="$PROJECT_DIR$/BackJoon/Greedy/Main4307/Main4307.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BackJoon/BFS/Main7576/Main7576.iml" filepath="$PROJECT_DIR$/BackJoon/BFS/Main7576/Main7576.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmers/Hash/Hash.iml" filepath="$PROJECT_DIR$/Programmers/Hash/Hash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BackJoon/Other/Other.iml" filepath="$PROJECT_DIR$/BackJoon/Other/Other.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmers/Programmers.iml" filepath="$PROJECT_DIR$/Programmers/Programmers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SWEA/SWEA.iml" filepath="$PROJECT_DIR$/SWEA/SWEA.iml" />
     </modules>
   </component>
 </project>
